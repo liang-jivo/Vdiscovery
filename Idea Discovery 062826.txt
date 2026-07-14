@@ -1,0 +1,476 @@
+are there global sourcing platform built like contact enrichment platforms? (E.g. Lusha, zoom info, etc..)
+
+Yes. There is effectively an equivalent of Lusha or ZoomInfo for suppliers, but the ecosystem is much more fragmented because supplier data is harder to standardize than contact data.
+
+You can think of them in several categories:
+
+Contact enrichment	Supplier sourcing equivalent	Primary data
+Lusha	Alibaba.com	Manufacturers, trading companies
+ZoomInfo	ImportYeti	Actual shipment records
+Apollo	Thomasnet	Industrial manufacturers
+Clearbit	Global Sources	Asian suppliers
+Cognism	Kompass	Company profiles
+—	MFG.com	RFQs and manufacturers
+—	QIMAone	Supplier compliance and quality
+—	Panjiva	Global trade data
+The closest equivalent to ZoomInfo
+
+If your goal is to find manufacturers rather than people, these are the closest:
+
+1. ImportYeti
+
+This is arguably the closest analogy.
+
+Instead of:
+
+"Show me marketing directors."
+
+It answers:
+
+"Show me who manufactures products for Nike."
+
+It uses customs import data to reveal:
+
+factories
+customers
+shipment frequency
+countries
+manufacturing relationships
+
+Very useful for discovering OEMs.
+
+2. Panjiva
+
+Enterprise-grade.
+
+Provides:
+
+import/export records
+supplier relationships
+trade volumes
+ports
+HS codes
+sourcing history
+
+Many Fortune 500 procurement teams use it.
+
+3. ImportGenius
+
+Similar to Panjiva.
+
+Focuses heavily on customs data worldwide.
+
+Useful for:
+
+finding factories
+verifying suppliers
+competitor sourcing
+Traditional sourcing databases
+
+These resemble a searchable supplier CRM.
+
+Examples:
+
+Alibaba.com
+Made-in-China.com
+Global Sources
+Thomasnet
+Kompass
+
+They let you filter by:
+
+capabilities
+certifications
+location
+minimum order quantity
+factory size
+production equipment
+Manufacturing intelligence platforms
+
+These go beyond directories by collecting operational data.
+
+Examples include:
+
+Craft
+Interos
+Everstream Analytics
+Sayari
+
+These track:
+
+ownership
+sanctions
+financial health
+ESG
+supply chain mapping
+geopolitical risk
+Why there isn't a true "Lusha for suppliers"
+
+Contact data is relatively standardized: companies have employees with names, emails, titles, and phone numbers.
+
+Supplier data is much messier because buyers care about attributes like:
+
+manufacturing capabilities
+machinery
+production capacity
+certifications (e.g., ISO)
+quality systems
+pricing
+lead times
+customer references
+export history
+
+Much of this information isn't publicly available or changes frequently, making it difficult to build a single, comprehensive enrichment database.
+
+Opportunity for AI
+
+This is where there is still significant whitespace. Imagine a platform that combines:
+
+company enrichment (e.g., ZoomInfo)
+trade data (e.g., Panjiva)
+factory directories (e.g., Alibaba)
+website scraping
+certification databases
+satellite imagery
+news
+customer reviews
+LLM-based capability extraction
+
+The result could be a "supplier intelligence platform" where a buyer simply asks:
+
+"Find ISO 13485-certified CNC machining suppliers in Vietnam with experience producing medical devices, fewer than 500 employees, exporting to Europe, and capable of low-volume prototyping."
+
+No single platform today delivers that level of AI-native, globally comprehensive supplier discovery and enrichment, although several are moving in that direction. This remains an attractive area for startups focused on procurement, supply chain intelligence, and agentic AI.
+
+For the very beginning, yes—but I'd separate your personal identity from your startup identity as early as possible.
+
+Here's what I'd do.
+
+Option 1 (first few weeks)
+
+Use Gmail.
+
+For example:
+
+jifounder@gmail.com
+jigraph.dev@gmail.com
+jiforge.ai@gmail.com
+
+This is perfectly fine while you're experimenting.
+
+Option 2 (my recommendation)
+
+As soon as you buy a domain, use a custom email.
+
+For example, if you own:
+
+jiforge.com
+
+Then create:
+
+hello@jiforge.com
+liang@jiforge.com
+founder@jiforge.com
+
+Even if it's just Gmail underneath (via Google Workspace or email forwarding), it immediately makes your startup look more credible.
+
+The cost is usually around US$6–12 per month, which is a worthwhile investment once you've chosen a name.
+
+My timeline would be
+
+Today
+
+Use Gmail.
+Create GitHub, OpenAI, Vercel, etc., with that email.
+
+After you settle on a name
+
+Buy the .com (or another strong domain if .com isn't available).
+Set up Google Workspace.
+Switch everything over to your domain email.
+
+It's a straightforward migration if you keep things organized.
+
+One small tip
+
+Don't use your personal email like:
+
+lianggo@gmail.com
+
+Instead, create something dedicated to the startup.
+
+For example:
+
+jiforge.build@gmail.com
+
+or
+
+jiforge.dev@gmail.com
+
+That way:
+
+It's easier to transfer later.
+It keeps startup notifications separate.
+It already feels like a business from day one.
+Since we're talking about branding...
+
+I actually wouldn't rush the name.
+
+Over the last few hours, I think we've converged on something more important than a catchy brand: you're building an industrial intelligence company, not a supplier directory.
+
+A good name will still fit if, five years from now, your product evolves into:
+
+an API for AI agents,
+industrial market intelligence,
+supplier discovery,
+or manufacturing capability data.
+
+So I'd spend another week brainstorming names while you start building the MVP. You can write code today without the final company name, but changing the core vision later is much harder than changing a domain.
+
+i am going with jivo
+
+I actually think Jivo is a strong choice.
+
+Not because it literally describes what you do, but because it has the characteristics of a scalable technology brand.
+
+What I like about it
+
+✅ Short
+
+4 letters
+Easy to type
+Easy to remember
+
+✅ Pronounceable globally
+
+English speakers: Jee-vo
+Asian languages can pronounce it easily too.
+
+✅ Doesn't lock you into procurement
+Today you're building supplier intelligence.
+
+Five years later you might be building:
+
+Industrial AI
+Knowledge APIs
+Manufacturing intelligence
+Supply chain intelligence
+
+"Jivo" still works.
+
+Your brand story
+
+I wouldn't try to invent a meaning for every letter.
+
+Instead, I'd tell a simple story:
+
+Ji comes from the Chinese character 智, representing wisdom and intelligence.
+
+Jivo represents our mission to transform fragmented industrial knowledge into structured intelligence.
+
+That's enough.
+
+Companies like Google, Stripe, and Plaid didn't become memorable because their names had perfect etymologies—they became memorable because of the products they built.
+
+I would already think about your positioning
+
+Instead of:
+
+Jivo — Supplier Discovery
+
+I'd position it as something bigger.
+
+For example:
+
+Jivo
+
+Industrial Intelligence.
+
+or
+
+Jivo
+
+Know Every Manufacturer.
+
+or
+
+Jivo
+
+The Knowledge Layer for Global Manufacturing.
+
+or my favorite:
+
+Jivo
+
+Industrial Intelligence, Structured.
+
+That aligns with everything we've discussed about building a high-quality industrial knowledge graph.
+
+Before you get too attached...
+
+I would check these today:
+
+Domain availability
+jivo.com (likely taken)
+jivo.ai
+jivo.io
+jivo.co
+getjivo.com
+jivohq.com
+GitHub username
+jivo
+LinkedIn company name
+Jivo
+Singapore company registration
+Check whether "Jivo" or a confusingly similar name already exists.
+One important thing
+
+There is already an established company called Jivo (known for customer messaging/live chat software), so using "Jivo" by itself could create trademark, branding, and SEO challenges, depending on your markets.
+
+That doesn't necessarily mean you can't use a variation, but I'd strongly recommend checking:
+
+domain availability,
+trademarks in the jurisdictions you care about,
+and whether customers could confuse the two companies.
+
+You have a good instinct for the style of name. If "Jivo" itself is too crowded legally or commercially, you might consider keeping the same feel with variations like JivoAI, Jivo Labs, Jivo Industrial, or an entirely new "Ji"-based name that's more distinctive.
+
+Given how much effort you'll put into building the company, it's worth spending a little extra time to make sure the brand is one you can confidently own long term.
+
+for free digital whiteboard, is Miro a good place to start
+
+Yes. Miro is probably the best place to start for what you're doing.
+
+You're currently in the "thinking and designing" phase, not the "project management" phase. Miro excels at helping you explore ideas visually.
+
+I would use it for things like:
+
+🧠 Knowledge graph design
+🏭 Manufacturing taxonomy
+🤖 Agent architecture
+🔄 Data pipeline
+🕸️ Entity relationships
+🚀 Product roadmap
+🎯 Customer personas
+💰 Business model
+
+For example, you could have one board with sections like:
+
+Jivo
+
+├── Vision
+
+├── Customer Problems
+
+├── Taxonomy
+
+├── Knowledge Graph
+
+├── Data Sources
+
+├── AI Agents
+
+├── MVP
+
+├── Pricing
+
+├── Competitors
+
+├── Technical Architecture
+
+└── Future Ideas
+The free plan is enough initially
+
+For an MVP founder, the free tier is usually sufficient.
+
+As your project grows, you can archive older boards or upgrade if you find yourself needing more active boards or advanced collaboration.
+
+Alternatives
+
+Here's how I'd compare them for your use case:
+
+Tool	Good for	My rating
+Miro	Brainstorming, system design	⭐⭐⭐⭐⭐
+Excalidraw	Fast architecture sketches	⭐⭐⭐⭐☆
+FigJam	Product planning and UX	⭐⭐⭐⭐☆
+Obsidian	Long-term notes and knowledge	⭐⭐⭐⭐⭐ (later)
+Notion	Documentation and project tracking	⭐⭐⭐⭐☆
+If I were building Jivo
+
+I'd actually use three tools together:
+
+1. Miro → Thinking
+
+Everything visual:
+
+Knowledge graph
+Taxonomy
+System diagrams
+Customer journeys
+2. Obsidian → Permanent knowledge
+
+Every insight becomes a note.
+
+For example:
+
+Taxonomy
+
+Manufacturing
+
+    CNC
+
+        Milling
+
+        Turning
+
+Medical
+
+    ISO13485
+
+Semiconductor
+
+    Wafer Fab
+
+Eventually this becomes your "industrial encyclopedia."
+
+3. GitHub
+
+Store:
+
+Code
+Crawlers
+Agent prompts
+Schemas
+Documentation
+One suggestion that I think will pay off
+
+Given how central the taxonomy is to your idea, I'd create a dedicated Miro board called "Jivo Ontology".
+
+Not product ideas. Not features.
+
+Just the ontology.
+
+It might have sections like:
+
+Entities
+Company
+Plant
+Capability
+Process
+Machine
+Product
+Certification
+Material
+Relationships
+Company → owns → Plant
+Plant → performs → Process
+Process → produces → Product
+Plant → holds → Certification
+Taxonomies
+Processes
+Industries
+Materials
+Certifications
+Equipment
+
+As you interview users and crawl data, that board becomes the blueprint for everything else—the database schema, extraction logic, qualification agents, and search filters. If Jivo succeeds, I'd expect that ontology to become one of your most valuable assets
