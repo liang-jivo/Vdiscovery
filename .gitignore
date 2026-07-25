@@ -1,1 +1,17 @@
+# Secrets — never commit
 Accounts.txt
+.env
+.mcp.json
+
+# Scraped output / raw HTML
+data/
+
+# Source documents (81MB FMM directory PDF etc.) — keep local, not in git history
+Data Sources/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Office lock files (created while a workbook is open)
+~$*
